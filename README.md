@@ -1,0 +1,1 @@
+# AtliQ-Hardware-Insights-SQL
