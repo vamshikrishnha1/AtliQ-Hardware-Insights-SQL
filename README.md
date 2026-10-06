@@ -98,6 +98,4 @@ This project was created as part of the **[Codebasics SQL Resume Project Challen
 
 ---
 
-If you found this helpful, feel free to ⭐️ this repository to support my work.
-
 **Thank you for checking out my project!**
