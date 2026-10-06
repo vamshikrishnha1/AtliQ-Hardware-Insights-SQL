@@ -57,7 +57,7 @@ Supporting documents:
 
 ## 🗂️ Files Included
 
-* `SQL Queries` — Folder with all `.sql` scripts for each request.
+* `Request file Queries` — with all `.sql` scripts for each request.
 * `ad-hoc-requests.pdf` — Problem statement.
 * `Metadata.txt` — Detailed table and column descriptions.
 
